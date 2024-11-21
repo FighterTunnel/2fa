@@ -1,16 +1,16 @@
 {
-    "name": "2fa-app",
-    "version": "1.0.0",
-    "description": "Aplikasi 2FA",
-    "main": "2fa.js",
-    "scripts": {
-      "start": "node 2fa.js"
-    },
-    "dependencies": {
-      "express": "^4.17.1",
-      "speakeasy": "^2.0.0"
-    },
-    "engines": {
-      "node": ">=14.0.0"
-    }
+  "name": "2fa-app",
+  "version": "1.0.0",
+  "description": "Aplikasi 2FA sederhana",
+  "main": "2fa.js",
+  "scripts": {
+    "start": "node 2fa.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "speakeasy": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
+}
