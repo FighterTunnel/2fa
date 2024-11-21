@@ -1,0 +1,11 @@
+{
+  "name": "2FA App",
+  "description": "Aplikasi 2FA",
+  "repository": "https://github.com/FighterTunnel/2fa",
+  "keywords": ["node", "express", "2fa"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
